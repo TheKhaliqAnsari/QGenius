@@ -1,8 +1,0 @@
-app/vercel/qgenius/twa/LauncherActivity.java
- app.vercel.qgenius.twa.LauncherActivity
-app/vercel/qgenius/twa/DelegationService.java
- app.vercel.qgenius.twa.DelegationService
-app/vercel/qgenius/twa/BuildConfig.java
- app.vercel.qgenius.twa.BuildConfig
-app/vercel/qgenius/twa/Application.java
- app.vercel.qgenius.twa.Application
